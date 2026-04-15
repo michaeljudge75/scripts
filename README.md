@@ -1,4 +1,3 @@
-```markdown
 # 🐧 Linux Utility Scripts
 
 <div align="center">
