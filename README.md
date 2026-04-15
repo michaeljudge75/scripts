@@ -122,7 +122,7 @@ Contributions are welcome! If you have suggestions for improvements or new scrip
 
 ## 📄 License
 
-This project is currently **unlicensed**. Please consider adding a license (e.g., MIT, GPL) if you wish to define how others can use, modify, and distribute your work.
+This project is currently licensed under the MIT License
 
 ## 🙏 Acknowledgments
 
